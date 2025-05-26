@@ -13,7 +13,7 @@ This repository contains an end-to-end pipeline for **real-time vehicle detectio
 ## 🛠️ Key Components
 1. **Data Annotation** ✍️  
    - Annotated ~2,000 satellite/UAV images in Roboflow  
-   - Classes: `car`, `truck`, `bus`, `motorbike`  
+   - Classes: `car`, `truck`, `bus`  
 2. **Model Training** 🤖  
    - Base detector: **YOLOv8**  
    - Training schedule: 300 epochs, batch size 16  
