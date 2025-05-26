@@ -21,7 +21,5 @@ This repository contains an end-to-end pipeline for **real-time vehicle detectio
 3. **Multi-Object Tracking** 🚀  
    - Integrated **BYTETrack** for frame-to-frame identity preservation  
 4. **Speed Estimation** 🏎️  
-   - Pixel-to-meter conversion using known camera FOV  
-   - Distance measured between two reference lines  
-   - Time stamped via frame rate (FPS)  
+   - Time-stamped via frame rate (FPS)  
    - Speed = distance (m) / time (s), output in km/h  
